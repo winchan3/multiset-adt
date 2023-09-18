@@ -5,6 +5,10 @@ public class adts {
     //    This class itself does not handle how the underlying data is stored,
     //    so it just inherits Object.__init__.
     public int count(Object item) {
-        throw boolean Operation
+        throw new UnsupportedOperationException();
+    }
+
+    public int size(Object item) {
+        throw new UnsupportedOperationException();
     }
 }
