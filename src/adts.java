@@ -1,4 +1,4 @@
-public class adts {
+public class multiset {
     //    An abstract class representing the MultiSet ADT, which supports the
     //    add, remove, isEmpty, count, and contains operations.
     //
