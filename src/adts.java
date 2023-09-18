@@ -6,7 +6,6 @@ public class adts {
     //    so it just inherits Object.__init__.
     public boolean add(Object item) {
         throw new UnsupportedOperationException();
-
     }
     public void remove(Object item) {
         throw new UnsupportedOperationException();
