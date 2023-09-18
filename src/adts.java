@@ -17,4 +17,11 @@ public class adts {
     public boolean isEmpty() {
         throw new UnsupportedOperationException();
     }
+    public int count(Object item) {
+        throw new UnsupportedOperationException();
+    }
+
+    public int size(Object item) {
+        throw new UnsupportedOperationException();
+    }
 }
